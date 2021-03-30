@@ -18,7 +18,7 @@ class ViewController: UIViewController {
        
     }
     
-
+// commentaire
     @IBAction func rollButtonPressed(_ sender: UIButton)
     {
         let diceArray = [#imageLiteral(resourceName: "DOne"),#imageLiteral(resourceName: "DTwo"),#imageLiteral(resourceName: "DThree"),#imageLiteral(resourceName: "DFour"),#imageLiteral(resourceName: "DFive"),#imageLiteral(resourceName: "DSix")]
